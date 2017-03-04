@@ -201,21 +201,6 @@ public class AStarSearch {
 		return nextState;
 	}
 	
-	public static Integer[][] moveDown(int[] puzzle, int zeroLocation, int number) {
-		return null;
-
-	}
-	
-	public static Integer[][] moveLeft(int[] puzzle, int zeroLocation, int number) {
-		return null;
-
-	}
-	
-	public static Integer[][] moveRight(int[] puzzle, int zeroLocation, int number) {
-		return null;
-
-	}
-	
 	public static void listSuccessorStates(int[][] puzzle2D, 
 			List<Integer[][]> checkList, String nodeId, int[] puzzle1D) {
 		int zeroPosition = 0;
