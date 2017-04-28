@@ -1,4 +1,4 @@
-A* Search
+#A* Search
 
 This is A* Search implemented in Java
 
