@@ -2,9 +2,9 @@
 
 This is A* Search implemented in Java
 
-To run this program, you will need to open the Eclipse IDE and create a package called "AStarSearch.java" like so: 
+To run this program, you will need to open command line interface and run "AStarSearch.java" like so: 
 
-  1. javac AStarSearch.java
-  2. java AStarSearch
+  1. javac AStarSearch.java   (To compile the program)
+  2. java AStarSearch         (To run the class file)
 
 And the program will run.
